@@ -29,4 +29,4 @@ Explore Dashboards: Navigate through the dashboards to explore insights.
 Customize Report: Modify data sources or visualizations as needed.
 
 
-(SQL Script Used and Descriptions Will Be Attached)
+(SQL Queries Used and Descriptions Will Be Attached)
